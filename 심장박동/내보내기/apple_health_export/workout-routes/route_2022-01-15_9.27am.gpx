@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="Apple Health Export" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <time>2022-01-28T07:15:02Z</time>
+  </metadata>
+  <trk>
+    <name>Route 2022-01-15 9:27am</name>
+    <trkseg>
+      <trkpt lon="127.091897" lat="37.553714"><ele>53.031071</ele><time>2022-01-15T00:27:20Z</time><extensions><speed>0.894177</speed><course>233.241150</course><hAcc>14.162180</hAcc><vAcc>10.190854</vAcc></extensions></trkpt>
+      <trkpt lon="127.091882" lat="37.553707"><ele>52.681118</ele><time>2022-01-15T00:27:20Z</time><extensions><speed>1.024026</speed><course>231.267242</course><hAcc>14.156163</hAcc><vAcc>10.199210</vAcc></extensions></trkpt>
+      <trkpt lon="127.091868" lat="37.553708"><ele>52.046909</ele><time>2022-01-15T00:27:21Z</time><extensions><speed>0.727859</speed><course>236.018433</course><hAcc>14.166484</hAcc><vAcc>10.184870</vAcc></extensions></trkpt>
+      <trkpt lon="127.091855" lat="37.553708"><ele>53.231567</ele><time>2022-01-15T00:27:22Z</time><extensions><speed>0.564226</speed><course>246.712952</course><hAcc>14.163857</hAcc><vAcc>10.188523</vAcc></extensions></trkpt>
+      <trkpt lon="127.091846" lat="37.553684"><ele>49.277847</ele><time>2022-01-15T00:27:23Z</time><extensions><speed>0.555281</speed><course>198.204865</course><hAcc>14.165843</hAcc><vAcc>10.185760</vAcc></extensions></trkpt>
+      <trkpt lon="127.091840" lat="37.553662"><ele>48.318741</ele><time>2022-01-15T00:27:24Z</time><extensions><speed>1.061898</speed><course>190.754913</course><hAcc>14.167018</hAcc><vAcc>10.184127</vAcc></extensions></trkpt>
+      <trkpt lon="127.091838" lat="37.553651"><ele>50.159534</ele><time>2022-01-15T00:27:24Z</time><extensions><speed>1.178944</speed><course>196.014694</course><hAcc>14.170460</hAcc><vAcc>10.179337</vAcc></extensions></trkpt>
+      <trkpt lon="127.091833" lat="37.553637"><ele>49.716053</ele><time>2022-01-15T00:27:25Z</time><extensions><speed>0.966026</speed><course>198.153687</course><hAcc>14.174950</hAcc><vAcc>10.173084</vAcc></extensions></trkpt>
+    </trkseg>
+  </trk>
+</gpx>
